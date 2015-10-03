@@ -14,7 +14,8 @@ You should now be able to install analyzeMFT with pip:
 Alternatively:
 
     git pull https://github.com/dkovar/analyzeMFT.git
-    python setup.py install (or, just run it from that directory)
+    python2.6 setup.py install (or, just run it from that directory)
+Note : Analyze MFT requires python2.6 
 
 Usage
 ===========
