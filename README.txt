@@ -15,7 +15,9 @@ Alternatively:
 
     git pull https://github.com/dkovar/analyzeMFT.git
     python2.6 setup.py install (or, just run it from that directory)
-Note : Analyze MFT requires python2.6 
+Note : 
+Analyze MFT requires python2.6 
+In case you face any issue, navigate to the folder and run analyzeMFT as : python2.6 ./analyzeMFT.py -h
 
 Usage
 ===========
